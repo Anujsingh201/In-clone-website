@@ -1,4 +1,5 @@
 while(learning) {
     pratice();
     improve();
+    Skills();
 }
